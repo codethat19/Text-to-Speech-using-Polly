@@ -1,0 +1,17 @@
+{
+    "app_information": {
+        "title": "Text to speech using Amazon Polly",
+        "version": "0.8.0",
+        "description": "This is an example API built with FastAPI to support text to speech conversion using Amazon Polly"
+    },
+    "contact_details": {
+        "name": "Aayush",
+        "url": "https://www.aayushrastogi.com/",
+        "email": "aayushrastogi1997@gmail.com"
+    },
+    "polly_access_ids": {
+        "aws_access_key_id": "YOUR_ACCESS_KEY_ID",                     
+        "aws_secret_access_key": "YOUR_SECRET_ACCESS_KEY"
+    }
+
+}

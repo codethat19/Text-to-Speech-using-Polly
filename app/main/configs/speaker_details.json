@@ -1,4 +1,4 @@
-SPEAKER_DETAILS_POLLY = { 
+{ 
     "speaker_details": [
         {
             "speaker_name": "Salli",
@@ -55,6 +55,6 @@ SPEAKER_DETAILS_POLLY = {
             "speaker_name": "Stephen",
             "speaker_id": "11",
             "desciption": "middle-aged-male"
-        },
+        }
     ]
 }
